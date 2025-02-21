@@ -1,0 +1,14 @@
+{
+    "document_text": "This is some text from the document. More content here...",
+    "list_items": [
+        [
+            ["Header1", "Header2", "Header3"],
+            ["Data1", "Data2", "Data3"],
+            ["Data4", "Data5", "Data6"]
+        ],
+        [
+            ["HeaderA", "HeaderB", "HeaderC"],
+            ["DataA", "DataB", "DataC"]
+        ]
+    ]
+}
